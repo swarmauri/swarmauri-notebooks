@@ -1,0 +1,8 @@
+*checkpoint.ipynb
+*checkpoint.py
+*personal.ipynb
+.virtual_documents/*
+*/.ipynb_checkpoints/*
+examples/*/.ipynb_checkpoints/*
+examples/*/workbooks/*
+examples/*/workbook/*
