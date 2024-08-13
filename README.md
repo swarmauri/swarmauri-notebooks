@@ -1,5 +1,5 @@
 # swarmauri-notebooks
-This repository includes core interfaces, standard ABCs, and standard concrete references of the SwarmaURI Framework.
+This repository includes notebooks related to the Swarmauri SDK located [here](https://github.com/swarmauri/swarmauri-sdk/).
 
 [![Star on GitHub](https://img.shields.io/github/stars/swarmauri/swarmauri-notebooks?style=social)](https://github.com/swarmauri/swarmauri-notebooks/stargazers) [![Fork on GitHub](https://img.shields.io/github/forks/swarmauri/swarmauri-notebooks?style=social)](https://github.com/swarmauri/swarmauri-notebooks/network/members) [![Watch on GitHub](https://img.shields.io/github/watchers/swarmauri/swarmauri-notebooks?style=social)](https://github.com/swarmauri/swarmauri-notebooks/watchers)
 
