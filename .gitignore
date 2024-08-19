@@ -7,3 +7,4 @@ examples/*/.ipynb_checkpoints/*
 examples/*/workbooks/*
 examples/*/workbook/*
 .env
+.venv/
