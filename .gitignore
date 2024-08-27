@@ -7,5 +7,8 @@ examples/*/.ipynb_checkpoints/*
 examples/*/workbooks/*
 examples/*/workbook/*
 .env
+.venv/
+__pycache__/
+**/__pycache__**
 example/env
-
+env/
