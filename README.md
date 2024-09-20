@@ -9,5 +9,5 @@ This repository includes notebooks related to the Swarmauri SDK located [here](h
 
 ## Steps to compile python package from source
 ```bash
-pip install swarmauri[full]==0.4.1
+pip install swarmauri[full]==0.4.4
 ```
