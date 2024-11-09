@@ -23,7 +23,7 @@ This repository includes notebooks related to the Swarmauri SDK located [here](h
 
 ### Prerequisites
 
-**Install Python 3.x:** Ensure you have Python installed on your machine. You can download it from [here](https://www.python.org/downloads/).
+**Install Python 3.x:** Ensure you have Python installed on your machine. You can download it from [here](https://pypi.org/project/swarmauri/).
 
 ### Swarmauri v0.5.0
 Ensure that you have installed the latest version of Swarmauri (v0.5.0). If you haven’t installed it yet, you can install it using the following command:
